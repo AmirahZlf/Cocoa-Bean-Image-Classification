@@ -1,0 +1,1 @@
+a computer vision-based image classification model for fermented cocoa beans using TensorFlow's Keras ResNet50 and VGG16 CNN architectures, and created visualizations. The objective is to classify the fermentation level of cocoa bean.
